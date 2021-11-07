@@ -60,7 +60,7 @@ class _PageLoginState extends State<PageLogin> {
               width: MediaQuery.of(context).size.width,
               child: ElevatedButton(
                 onPressed: () {}, 
-                child: Text('Login', style: TextStyle(fontSize: 15),) 
+                child: Text('Login', style: TextStyle(fontSize: 16),) 
               ),
             )
           ],
